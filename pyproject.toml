@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-payment-client"
+version = "0.1.12"
+authors = [
+    {name = "Aliyu Alege", email = "aliyualege@gmail.com"},
+]
+description = "SDK for AI agents to make payments on merchant websites, make transfters and other kinds of bill payments."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "aiohttp>=3.11.13",
+    "cryptography>=44.0.2",
+    "playwright>=1.50.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ibnahmadcoded/agent-payment-client"
+"Bug Tracker" = "https://github.com/ibnahmadcoded/agent-payment-client/issues"

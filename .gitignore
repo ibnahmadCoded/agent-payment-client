@@ -1,0 +1,35 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Distribution and build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Packaging files
+*.whl
+*.tar.gz
+*.zip
+
+# PyInstaller
+*.spec
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
