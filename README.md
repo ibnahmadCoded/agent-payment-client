@@ -214,7 +214,11 @@ This SDK uses RSA public-key cryptography for secure communication with the paym
 
 ## Testing and General Usage
 
-Due to the workload, there are currently no published tests for this SDK. However, you can learn how to set up and use this SDK alongside the other 2 components ([payment gateway backend](https://tally.so/r/wvKeg4) and [merchant frontend SDK](https://github.com/ibnahmadcoded/merchant-payment-client)) [here](https://github.com/ibnahmadcoded/agent-pay-intro).
+Due to the workload, there are currently no published tests for this SDK. However, you can learn how to set up and use this SDK alongside the other 2 components ([payment gateway backend](https://github.com/ibnahmadcoded/agent-payment-client) and [merchant frontend SDK](https://github.com/ibnahmadcoded/merchant-payment-client)) in this [repository](https://github.com/ibnahmadcoded/agent-pay-demo).
+
+## Waitlist
+
+Be among the first to use our infrastructure when we release our full backend app. Join the [waitlist](https://tally.so/r/wvKeg4). 
 
 ## Community
 
